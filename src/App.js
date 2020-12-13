@@ -18,7 +18,7 @@ export default function App() {
 				<h2 className="nav-H2">
 					<small>
 						-Created by{' '}
-						<a href="https://nirav-kyada.netlify.com" title="Visit My Site.">
+						<a href="https://nirav-kyada.netlify.app/" title="Visit My Site.">
 							Nirav Kyada
 						</a>
 					</small>
