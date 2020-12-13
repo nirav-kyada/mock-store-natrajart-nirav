@@ -18,21 +18,17 @@ export default function App() {
 				<h2 className="nav-H2">
 					<small>
 						-Created by{' '}
-						<a href="nirav-kyada.netlify.com" title="Visit My Site.">
+						<a href="https://nirav-kyada.netlify.com" title="Visit My Site.">
 							Nirav Kyada
 						</a>
 					</small>
 				</h2>
 				<p>
-					Hey guys!! this is my Mark9 submission for neoGcamp #Level_Zero. This
-					is the mock web design have created, hope it will be loved ;) During
-					this i have discovered via trial and error .. a dynamic kinda
-					mechanism using google sheets data as dynamic entries to All of
-					NeoGrammers and their portfolio. Please feel free and give it a try.{' '}
-					<a
-						className="store-link"
-						href="https://dynamic-list-nirav.netlify.app/"
-					>
+					Hey guys!! this is my Mark9 submission for neoGcamp #Level_Zero. This is the mock web design have
+					created, hope it will be loved ;) During this i have discovered via trial and error .. a dynamic
+					kinda mechanism using google sheets data as dynamic entries to All of NeoGrammers and their
+					portfolio. Please feel free and give it a try.{' '}
+					<a className="store-link" href="https://dynamic-list-nirav.netlify.app/">
 						Link Here
 					</a>
 				</p>
